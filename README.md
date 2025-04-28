@@ -7,11 +7,11 @@ This solution uses Google's Custom Search JSON API to search for LinkedIn profil
 - Google Custom Search Engine ID
 
 ## What achieved
-Job title
-LinkedIn search via custom google search
-Variable number of results
-Link to profile
-All without scraping LinkedIn
+- Job title
+- LinkedIn search via custom google search
+- Variable number of results
+- Link to profile
+- All without scraping LinkedIn
 
 ## Extra
 For better code readability, within the functions, text is also added in double quotes.
